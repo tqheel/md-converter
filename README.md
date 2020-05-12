@@ -1,2 +1,6 @@
 # md-converter
-Messing around with converting Markdown to html using nodejs.
+## Usage
+node md-converter --file='myFile.md'
+
+## Output
+In above example, would convert myFile.md to HTML and save to disk as myFile.html.

@@ -1,0 +1,23 @@
+{
+  "name": "md-converter",
+  "version": "1.0.0",
+  "description": "converts a given Markdown file to html.'",
+  "main": "md-convert.js",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqheel/md-converter.git"
+  },
+  "author": "Todd E. Qualls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqheel/md-converter/issues"
+  },
+  "homepage": "https://github.com/tqheel/md-converter#readme"
+}
